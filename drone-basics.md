@@ -1,4 +1,4 @@
-# 🚁 Drone Basics
+#  Drone Basics
 
 Welcome to the **Drone Basics** repository. This guide is designed to introduce beginners to the exciting world of drone technology. Whether you are a student, educator, hobbyist, or someone curious about unmanned aerial vehicles (UAVs), this document provides a simple and practical overview of how drones work and why they are becoming an important part of modern technology.
 
