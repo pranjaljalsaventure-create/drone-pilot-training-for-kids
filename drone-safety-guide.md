@@ -75,13 +75,13 @@ Proper battery maintenance improves both safety and battery life.
 
 ---
 
-## 👁️ Keep Your Drone in Sight
+##  Keep Your Drone in Sight
 
 Maintain a clear visual line of sight throughout the flight. Avoid flying behind buildings, trees, or large obstacles where you may lose visibility or signal.
 
 ---
 
-## 🚫 Respect Others
+##  Respect Others
 
 Responsible drone pilots always:
 
@@ -124,7 +124,7 @@ Knowing how to respond quickly can reduce the risk of damage.
 
 ---
 
-## 🎯 Best Practices
+##  Best Practices
 
 Good drone pilots always:
 
@@ -136,7 +136,7 @@ Good drone pilots always:
 
 ---
 
-## 📚 Continue Learning
+## Continue Learning
 
 Once you're comfortable with drone safety, you can explore:
 
