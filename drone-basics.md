@@ -1,12 +1,12 @@
 # Drone Basics
 
-# 🚁 Drone Basics
+# Drone Basics
 
 Welcome to the **Drone Basics** repository! This guide is designed for beginners who want to understand the fundamentals of drone technology. Whether you're a student, hobbyist, or aspiring drone pilot, this repository provides a simple introduction to drones, their components, applications, safety guidelines, and future opportunities.
 
 ---
 
-## 📖 What is a Drone?
+##What is a Drone?
 
 A drone, also known as an **Unmanned Aerial Vehicle (UAV)**, is an aircraft that operates without a pilot on board. Drones are controlled remotely or can fly autonomously using GPS, sensors, and onboard software.
 
@@ -14,7 +14,7 @@ Today, drones are widely used across industries because they can capture aerial 
 
 ---
 
-## 🔧 Main Components of a Drone
+## Main Components of a Drone
 
 A typical drone consists of the following parts:
 
@@ -29,22 +29,22 @@ A typical drone consists of the following parts:
 
 ---
 
-## 🌍 Applications of Drones
+## Applications of Drones
 
 Drone technology is transforming many industries, including:
 
-- 🌾 Agriculture
-- 📷 Photography & Videography
-- 🗺️ Surveying & Mapping
-- 🚨 Disaster Management
-- 🏗️ Construction
-- 🚚 Delivery Services
-- 🔍 Infrastructure Inspection
-- 🛡️ Security & Surveillance
+-  Agriculture
+-  Photography & Videography
+-  Surveying & Mapping
+-  Disaster Management
+-  Construction
+-  Delivery Services
+-  Infrastructure Inspection
+- Security & Surveillance
 
 ---
 
-## 🛡️ Basic Drone Safety Tips
+## Basic Drone Safety Tips
 
 Always follow these safety practices before flying:
 
@@ -58,7 +58,7 @@ Always follow these safety practices before flying:
 
 ---
 
-## 🎯 Benefits of Learning Drone Technology
+## Benefits of Learning Drone Technology
 
 Learning drone technology can help you:
 
@@ -71,7 +71,7 @@ Learning drone technology can help you:
 
 ---
 
-## 🚀 Future Career Opportunities
+## Future Career Opportunities
 
 Drone skills can lead to careers in:
 
@@ -86,7 +86,7 @@ Drone skills can lead to careers in:
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 To strengthen your knowledge, explore topics such as:
 
@@ -101,16 +101,16 @@ To strengthen your knowledge, explore topics such as:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to improve the content, fix errors, or add educational resources related to drone technology.
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for educational purposes. You are welcome to use and modify the content while giving appropriate credit.
 
 ---
 
-### ⭐ If you found this repository useful, don't forget to star it!
+###  If you found this repository useful, don't forget to star it!
