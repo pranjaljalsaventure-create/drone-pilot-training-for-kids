@@ -43,7 +43,7 @@ Flying in a safe environment gives you better control over your drone.
 
 ---
 
-## 🌦️ Fly Only in Suitable Weather
+##  Fly Only in Suitable Weather
 
 Weather directly affects drone performance.
 
@@ -95,7 +95,7 @@ Safe flying creates a positive experience for everyone.
 
 ---
 
-## 🔧 Routine Drone Maintenance
+##  Routine Drone Maintenance
 
 After every flight:
 
@@ -110,7 +110,7 @@ Regular maintenance keeps your drone reliable and ready for the next flight.
 
 ---
 
-## 🚨 If Something Goes Wrong
+##  If Something Goes Wrong
 
 If your drone behaves unexpectedly:
 
@@ -151,16 +151,6 @@ Once you're comfortable with drone safety, you can explore:
 
 ---
 
-## Contributions
-
-Suggestions, improvements, and educational resources are welcome. Feel free to contribute and help make this guide more useful for beginners.
-
----
-
-##  License
-
-This repository is provided for educational purposes. You may use and share the content with appropriate attribution.
-
----
+ 
 
  **If this guide helped you, consider starring the repository to support future updates!**
